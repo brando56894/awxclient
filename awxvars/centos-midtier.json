@@ -1,0 +1,9 @@
+{
+ "baselinename": "Foreman - MID-TIER - BASELINE CENTOS APPLY",
+ "baselineid": 511,
+ "breakglassname": "Foreman - MID-TIER - BREAKGLASS",
+ "breakglassid": 512,
+ "inventoryname": "Midtier-Baremetal",
+ "inventoryid": 513,
+ "reboot": "true"
+}

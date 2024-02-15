@@ -1,0 +1,9 @@
+{
+ "baselinename": "Foreman - EDGE - CentOS 8.x Baseline",
+ "baselineid": 876,
+ "breakglassname": "Foreman - EDGE - BREAKGLASS",
+ "breakglassid": 877,
+ "inventoryname": "Edge-Baremetal",
+ "inventoryid": 516,
+ "reboot": "true"
+}

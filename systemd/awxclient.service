@@ -1,0 +1,11 @@
+[Unit]
+Description=Run-once post-install script to kickoff AWX playbooks
+
+[Service]
+ExecStart=/usr/bin/awxclient foreman
+Type=idle
+StandardOutput=kmsg+console
+StandardError=kmsg+console
+
+[Install]
+WantedBy=multi-user.target

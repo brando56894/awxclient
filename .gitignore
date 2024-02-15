@@ -1,0 +1,4 @@
+build-host.sh
+awxclient
+awxclient.debug
+awxvars.ini

@@ -1,0 +1,12 @@
+[Unit]
+Description=Midtier AWX Relay Webserver
+
+[Service]
+ExecStart=/usr/bin/awxclient --relay
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStop=/bin/kill -s QUIT $MAINPID
+Type=simple
+
+[Install]
+WantedBy=multi-user.target
+

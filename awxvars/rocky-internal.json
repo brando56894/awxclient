@@ -1,0 +1,9 @@
+{
+ "baselinename": "Rocky Baseline",
+ "baselineid": 1504,
+ "breakglassname": "Foreman Rocky Breakglass (dsadmin)",
+ "breakglassid": 1803,
+ "inventoryname": "Rocky Foreman",
+ "inventoryid": 392,
+ "reboot": "true"
+}

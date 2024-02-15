@@ -1,0 +1,9 @@
+{
+ "baselinename": "Foreman - MidTier Baseline Rocky Apply",
+ "baselineid": 1417,
+ "breakglassname": "Foreman - MID-TIER - BREAKGLASS",
+ "breakglassid": 512,
+ "inventoryname": "Midtier-Baremetal",
+ "inventoryid": 513,
+ "reboot": "true"
+}

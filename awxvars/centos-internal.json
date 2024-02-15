@@ -1,0 +1,9 @@
+{
+ "baselinename": "Foreman-CentOS-Baseline-Apply",
+ "baselineid": 758,
+ "breakglassname": "Foreman Breakglass",
+ "breakglassid": 507,
+ "inventoryname": "Foreman_Hosts",
+ "inventoryid": 44,
+ "reboot": "true"
+}
